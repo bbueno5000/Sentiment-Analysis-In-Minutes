@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="kaggle_word_vec_utility.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="sentiment_analysis_in_minutes.py" />
   </ItemGroup>
   <ItemGroup>
